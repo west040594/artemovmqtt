@@ -1,0 +1,10 @@
+version: "2"
+networks:
+  lan:
+services:
+    mqtt:
+        image: eclipse-mosquitto:latest
+        restart: always
+        ports:
+          - "1883:1883"
+          - "9001:9001"
