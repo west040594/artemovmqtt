@@ -1,0 +1,10 @@
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.exe
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.pdb
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\bin\Debug\M2Mqtt.dll
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csprojResolveAssemblyReference.cache
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Form1.resources
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Properties.Resources.resources
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csproj.GenerateResource.Cache
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csproj.CoreCompileInputs.cache
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.exe
+B:\Загрузки\Project\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.pdb
