@@ -18,19 +18,14 @@
             <label for="queue_port">Порт очереди</label>
             <input type="text" id="queue_port" name="queue_port" placeholder="Введите порт очереди" class="form-control">
         </div>
-        <input type="button" class="btn btn-success" onclick="startConnect()" value="Connect">
-        <input type="button" class="btn btn-danger" onclick="startDisconnect()" value="Disconect">
-        <span id="connect_messages" class="badge badge-primary"></span>
-        <h2>Отправить сообщение</h2>
         <div class="form-group">
             <label for="queue_topic">Название топика</label>
             <input type="text" id="queue_topic" name="queue_topic" placeholder="Введите название топика" class="form-control" >
         </div>
-        <div class="form-group">
-            <label for="queue_message">Сообщение</label>
-            <input type="text" id="queue_message" name="queue_message" placeholder="Введите сообщение" class="form-control" >
-        </div>
-        <input type="button" id ="send_message" class="btn btn-primary" onclick="sendMessage()" value="Отправить">
+        <input type="button" class="btn btn-success" onclick="startConnect()" value="Connect">
+        <input type="button" class="btn btn-danger" onclick="startDisconnect()" value="Disconect">
+        <span id="connect_messages" class="badge badge-primary"></span>
+        <div id="queue_messages"></div>
     </div>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
